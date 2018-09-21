@@ -1,0 +1,71 @@
+.table {
+  text-align: center;
+}
+
+#mainTable {
+  margin-left: 1%;
+  width: 98%;
+  text-align: center;
+}
+
+.table-header {
+  text-align: center;
+  background-color: #cc0000;
+  color: white;
+}
+
+.table-header2 {
+  text-align: center;
+  background-color: green;
+  color: white;
+}
+
+.table-title {
+  text-align: center;
+  margin-top: 2%;
+}
+
+#order-number {
+  margin-left: 17%;
+  margin-top: 3%;
+  width: 15%;
+}
+
+.btn-basic:hover {
+  background-color: #cc0000;
+  color: white;
+}
+
+#yes-button:hover {
+  background-color: green;
+  color: white;
+}
+
+#title {
+  text-align: center;
+}
+
+#sub-title {
+  text-align: center;
+}
+
+#nav-btns {
+  margin-left: 12%;
+}
+
+#nav-btns button {
+  margin-left: 10px;
+}
+
+#info-box {
+  text-align: left;
+}
+
+#arrow {
+  font-size: 18px;
+}
+
+#arrow:hover {
+  color: #cc0000;
+  background-color: white;
+}
